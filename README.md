@@ -12,5 +12,5 @@ https://user-images.githubusercontent.com/59159552/180328459-590d6859-c9e8-4157-
 
 ## Installation
 
-Edit the .env.local file with your own local dependancies to access your productiona and development database. 
+Edit the .env.local file with your own local dependancies to access your production and development database. 
 
