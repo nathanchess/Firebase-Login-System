@@ -12,8 +12,8 @@ https://user-images.githubusercontent.com/59159552/180328459-590d6859-c9e8-4157-
 
 ## Features
 
-- Password Reset (via dashboard and email)
-- Email update (via update profile)
+- Password Reset (via "Update Profile" and Email link)
+- Email update (via "Update Profile")
 - Private Routing 
 
 ## PSA
