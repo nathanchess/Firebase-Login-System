@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/59159552/180328459-590d6859-c9e8-4157-
 
 - Password Reset (via "Update Profile" and Email link)
 - Email update (via "Update Profile")
-- Private Routing 
+- Private Page Routing 
 
 ## PSA
 
