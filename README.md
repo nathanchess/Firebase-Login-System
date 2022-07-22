@@ -2,7 +2,7 @@
 
 Hi there! This is a simple firebase login system modified to be compatible with React V6. 
 
-The AuthContext file is meant to be modular and compatible with different databases. 
+The AuthContext file is meant to be modular and compatible with databases other than Firebase.  
 
 **Showcase:**
 
