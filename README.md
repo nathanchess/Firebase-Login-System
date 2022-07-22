@@ -10,6 +10,12 @@ https://user-images.githubusercontent.com/59159552/180328459-590d6859-c9e8-4157-
 
 **Note: You will need to adjust the functions within AuthContext if you are not using Firebase.**
 
+## Features
+
+- Password Reset (via dashboard and email)
+- Email update (via update profile)
+- Private Routing 
+
 ## PSA
 
 You will need to edit the .env.local file with your own local dependancies to access your production and development database. 
